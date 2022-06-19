@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hetarth Raval</h1>
+<h1 align="center">Hi 👋, I'm Hetarth</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently learning **Web3**
