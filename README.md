@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetarth7&" alt="hetarth7" /></p>
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=hetarth7&label=Profile%20views&color=0e75b6&style=flat" alt="hetarth7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hetarth7&label=Profile%20views&color=0e75b6&style=flat" alt="hetarth7" /> </p>
