@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, Mesa Jar Jar Binks</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- My Name is Hetarth
+- 🔭 My Name is Hetarth
 
 - 🌱 I’m currently learning **Python Programming**
 
