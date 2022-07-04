@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, Mesa Jar Jar Binks</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I'm Hetarth
+- 🌱 Hi, I'm Hetarth
 
-- 🌱 I’m currently learning **Python Programming**
+- 🔭 I’m currently learning **Python Programming**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
