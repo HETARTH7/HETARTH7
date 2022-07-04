@@ -27,14 +27,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetarth7&" alt="hetarth7" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hetarth7&label=Profile%20views&color=0e75b6&style=flat" alt="hetarth7" /> </p>
-
-# Productivity Stats📈:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HETARTH7"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=HETARTH7&bgcolor=white&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
-</table>
