@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hetarth</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hello there 👋, Mesa Jar Jar Binks</h1>
+<h3 align="center">A Full Stack Developer</h3>
 
 
 
