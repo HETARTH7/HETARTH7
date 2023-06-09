@@ -236,12 +236,12 @@
           width="40"
           height="52"
         /> </p>
+<p align="center">
+<img style="padding:5px" className="inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetarth7&show_icons=true&locale=en&layout=compact&theme=radical" alt="hetarth7" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetarth7&show_icons=true&locale=en&layout=compact" alt="hetarth7" /></p>
+<img className="inline" align="center" src="https://github-readme-stats.vercel.app/api?username=hetarth7&show_icons=true&locale=en&theme=radical" alt="hetarth7" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetarth7&show_icons=true&locale=en" alt="hetarth7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetarth7&" alt="hetarth7" /></p>
-
+<img className="inline" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetarth7&&theme=radical" alt="hetarth7" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hetarth7&label=Profile%20views&color=0e75b6&style=flat" alt="hetarth7" /> </p>
