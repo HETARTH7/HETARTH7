@@ -239,9 +239,9 @@
 <p align="center">
 <img style="padding:5px" className="inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetarth7&show_icons=true&locale=en&layout=compact&theme=radical" alt="hetarth7" />
 
-<img className="inline" align="center" src="https://github-readme-stats.vercel.app/api?username=hetarth7&show_icons=true&locale=en&theme=radical" alt="hetarth7" />
+<!-- <img className="inline" align="center" src="https://github-readme-stats.vercel.app/api?username=hetarth7&show_icons=true&locale=en&theme=radical" alt="hetarth7" /> -->
 
-<img className="inline" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetarth7&&theme=radical" alt="hetarth7" />
+<img align="center" className="inline" src="https://github-readme-streak-stats.herokuapp.com/?user=hetarth7&&theme=radical" alt="hetarth7" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hetarth7&label=Profile%20views&color=0e75b6&style=flat" alt="hetarth7" /> </p>
