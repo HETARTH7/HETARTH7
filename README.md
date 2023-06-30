@@ -232,8 +232,14 @@
           src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
           alt="postman"
           width="40"
-          height="52"
-        />  </p>
+          height="40"
+        /> <img
+          className="inline"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="40"
+          width="52"
+          alt="typescript logo"
+        /> </p>
 <p align="center">
 <img style="padding:5px" className="inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetarth7&show_icons=true&locale=en&layout=compact&theme=radical" alt="hetarth7" />
 
