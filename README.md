@@ -94,6 +94,12 @@
           width="52"
           alt="flask logo"
         />
+          <img 
+          className="inline"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+          height="40"
+          width="52"
+          alt="pandas logo" /> 
         <img
           className="inline"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
