@@ -10,7 +10,7 @@
 - 📫 How to reach me **hetarth002@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><a href="https://www.linkedin.com/in/hetarth-raval-936462218/><img 
+<p align="center"><a href="https://www.linkedin.com/in/hetarth-raval-936462218/"><img 
 height="40"
 width="52"
 alt="linkedin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a></p>
