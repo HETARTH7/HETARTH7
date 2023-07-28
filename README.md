@@ -13,7 +13,10 @@
 <p align="center"><a href="https://www.linkedin.com/in/hetarth-raval-936462218/"><img 
 height="40"
 width="52"
-alt="linkedin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a></p>
+alt="linkedin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><a href="https://stackoverflow.com/users/16973267/hetarth7"><img 
+height="40"
+width="52"
+alt="stackoverflow logo" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" /></a></p>
 
 
 
