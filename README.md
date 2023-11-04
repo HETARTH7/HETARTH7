@@ -256,7 +256,7 @@ alt="stackoverflow logo" src="https://upload.wikimedia.org/wikipedia/commons/e/e
           height="40"
           width="52"
           alt="typescript logo"
-        /> </p>
+        /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </p>
 <p align="center">
 <img style="padding:5px" className="inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetarth7&show_icons=true&locale=en&layout=compact&theme=radical" alt="hetarth7" />
 
