@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hetarth</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
