@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://hetarth.vercel.app/)
 
-- 📫 How to reach me **hetarth002@gmail.com**
+- 📫 How to reach me **hetarth2028@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://www.linkedin.com/in/hetarth-raval-936462218/"><img 
